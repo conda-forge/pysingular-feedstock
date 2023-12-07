@@ -21,11 +21,9 @@ pin_run_as_build:
 python:
 - 3.10.* *_cpython
 singular:
-- 4.2.1.p3
+- 4.3.2.p8
 target_platform:
 - linux-64
 zip_keys:
 - - c_compiler_version
   - cxx_compiler_version
-- - python
-  - channel_sources

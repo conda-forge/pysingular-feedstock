@@ -241,5 +241,5 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
-* [@conda-forge/singular](https://github.com/conda-forge/singular/)
+* [@conda-forge/singular](https://github.com/orgs/conda-forge/teams/singular/)
 
